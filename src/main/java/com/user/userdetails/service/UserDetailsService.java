@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class UserDetailsService {
 
 	public String getUser(String userName, String userDob) {
-		return userName + userDob;
+		return "User name is "+userName+" and user date of birth is " + userDob;
 	}
 
 }
