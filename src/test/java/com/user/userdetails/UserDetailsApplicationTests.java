@@ -14,4 +14,8 @@ class UserDetailsApplicationTests {
 	void contextLoads1() {
 	}
 
+	@Test
+	void contextLoads2() {
+	}
+
 }
