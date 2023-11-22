@@ -10,4 +10,8 @@ class UserDetailsApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void contextLoads5() {
+	}
+
 }
